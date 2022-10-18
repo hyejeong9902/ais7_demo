@@ -15,3 +15,4 @@ README.md: 마크다운
 * 데이터프레임 보여주기
 * 시각화하기
 
+<img src = "https://github.com/hyejeong9902/ais7_demo/blob/main/1.png?raw=true">
